@@ -1,0 +1,3 @@
+/home/dsopata/_projects/studes/pr/MPI1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dsopata/_projects/studes/pr/MPI1/cmake-build-debug/CMakeFiles/mpi1.dir
+/home/dsopata/_projects/studes/pr/MPI1/cmake-build-debug/CMakeFiles/edit_cache.dir
